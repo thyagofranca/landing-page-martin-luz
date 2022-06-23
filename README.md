@@ -2,7 +2,8 @@
 
 Projeto de uma landing page customizada para a empresa Martin Luz, teste prático para avaliação das minhas skills como desenvolvedor WordPress
 
-### Dentro do projeto existe um carousel animado usando a lib <a href="https://kenwheeler.github.io/slick/">Slick</a>  
+#### Para a criação do front foi usado <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap 4.6</a> e para o carousel animado a lib <a href="https://kenwheeler.github.io/slick/">Slick</a>
+
 
 ## O projeto segue com uma calculadora com a seguinte lógica;
 
