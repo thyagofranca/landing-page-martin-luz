@@ -2,6 +2,8 @@
 
 Projeto de uma landing page customizada para a empresa Martin Luz, teste prático para avaliação das minhas skills como desenvolvedor WordPress
 
+### Dentro do projeto existe um carousel animado usando a lib <a href="https://kenwheeler.github.io/slick/">Slick</a>  
+
 ## O projeto segue com uma calculadora com a seguinte lógica;
 
 Dois valores de entrada:
@@ -12,5 +14,7 @@ Resultado:
 Valor total de TEDs por mês -53% de desconto.
 
 Apresentado em uma modal
+
+Mais uma query personalizada para mostar os 3 últimos posts relacionados da categoria padrão do WP
 
 ![screencapture](https://user-images.githubusercontent.com/39839436/175333073-94c00e4e-10aa-40aa-8bcd-203f9873eb58.png)
